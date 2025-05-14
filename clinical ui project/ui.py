@@ -196,5 +196,5 @@ class UIApp:
 if __name__ == '__main__':
     root = tk.Tk()
     app = UIApp(root)
-root.mainloop()
+    root.mainloop()
 
